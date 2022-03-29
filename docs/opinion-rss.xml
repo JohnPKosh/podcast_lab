@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>One F*%^ed Up Opinion!</title>
+    <title>One Fubar Opinion!</title>
     <description>A crabby old man gives his opinions on today's world!</description>
     <link>https://johnpkosh.github.io/podcast_lab</link>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <webMaster>devprowork@live.com</webMaster>
     <image>
       <url>https://johnpkosh.github.io/podcast_lab/opinion/feed_image.png</url>
-      <title>One F*%^ed Up Opinion!</title>
+      <title>One Fubar Opinion!</title>
       <link>https://johnpkosh.github.io/podcast_lab</link>
       <width>300</width>
       <height>300</height>
@@ -33,7 +33,7 @@
     </itunes:category>
     <item>
       <title>It's all about ME!</title>
-      <link>https://johnpkosh.github.io/podcast_lab/opinion/episodes/episode-00_test.mp3</link>
+      <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
       <guid>9822f428-06c0-4462-943d-d3788cd00eb3</guid>
       <description>If you did not hear it you would not believe it. I drag you through the mud of my life, face first, to give you some idea why I am the way I am.</description>
       <enclosure url="https://johnpkosh.github.io/podcast_lab/opinion/episodes/episode-00_test.mp3" length="1024" type="audio/mpeg" />
