@@ -3,7 +3,7 @@
   <channel>
     <title>One Fubar Opinion!</title>
     <description>A crabby old man gives his opinions on today's world!</description>
-    <link>https://johnpkosh.github.io/podcast_lab</link>
+    <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
     <language>en-us</language>
     <copyright>Copyright 2022 John Kosh</copyright>
     <lastBuildDate>Tue, 29 Mar 2022 11:27:59 GMT</lastBuildDate>
@@ -12,7 +12,7 @@
     <image>
       <url>https://johnpkosh.github.io/podcast_lab/opinion/feed_image.png</url>
       <title>One Fubar Opinion!</title>
-      <link>https://johnpkosh.github.io/podcast_lab</link>
+      <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
       <width>300</width>
       <height>300</height>
       <description>A crabby old man gives his opinions on today's world!</description>

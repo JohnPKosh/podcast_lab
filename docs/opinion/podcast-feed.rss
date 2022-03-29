@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>One F*%^ed Up Opinion!</title>
+    <title>One Fubar Opinion!</title>
     <description>A crabby old man gives his opinions on today's world!</description>
-    <link>http://www.solidrocketfuel.com</link>
+    <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
     <language>en-us</language>
     <copyright>Copyright 2022 John Kosh</copyright>
-    <lastBuildDate>Mon, 28 Mar 2022 13:43:15 GMT</lastBuildDate>
-    <pubDate>Mon, 28 Mar 2022 13:43:15 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 11:27:59 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2022 11:27:59 GMT</pubDate>
     <webMaster>devprowork@live.com</webMaster>
     <image>
-      <url>https://www.solidrocketfuel.com/img/solid-rocket-fuel-logo.svg</url>
-      <title>One F*%^ed Up Opinion!</title>
-      <link>http://www.solidrocketfuel.com</link>
+      <url>https://johnpkosh.github.io/podcast_lab/opinion/feed_image.png</url>
+      <title>One Fubar Opinion!</title>
+      <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
       <width>300</width>
       <height>300</height>
       <description>A crabby old man gives his opinions on today's world!</description>
@@ -27,17 +27,17 @@
       <itunes:email>devprowork@live.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="https://www.solidrocketfuel.com/img/solid-rocket-fuel-logo.svg" />
+    <itunes:image href="https://johnpkosh.github.io/podcast_lab/opinion/feed_image.png" />
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
     <item>
       <title>It's all about ME!</title>
-      <link>http://www.solidrocketfuel.com</link>
-      <guid>173e586d-603b-45ae-9523-19bb450d8a5a</guid>
+      <link>https://johnpkosh.github.io/podcast_lab/opinion/index.html</link>
+      <guid>9822f428-06c0-4462-943d-d3788cd00eb3</guid>
       <description>If you did not hear it you would not believe it. I drag you through the mud of my life, face first, to give you some idea why I am the way I am.</description>
-      <enclosure url="http://www.solidrocketfuel.com/episode-1.mp3" length="1024" type="audio/mpeg" />
-      <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+      <enclosure url="https://johnpkosh.github.io/podcast_lab/opinion/episodes/episode-00_test.mp3" length="1024" type="audio/mpeg" />
+      <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
       <itunes:author>John Kosh</itunes:author>
       <itunes:explicit>No</itunes:explicit>
       <itunes:subtitle>Bring your boots, it's gonna get deep!</itunes:subtitle>
